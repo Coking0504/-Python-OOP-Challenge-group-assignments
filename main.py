@@ -39,7 +39,7 @@ class Pet:
         else:
             print(f"{self.name} doesn't know any tricks yet.")
 
-
+# Method test:
 my_pet = Pet("Fluffy")
 my_pet.get_status()
 my_pet.eat()
